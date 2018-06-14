@@ -1,0 +1,26 @@
+/* some style */
+div#the-map {
+    width: 75%;
+    float: left;
+}
+
+div#menu {
+    width: 20%;
+    float: right;
+}
+
+.selected {
+    background: lightgrey;
+}
+
+ul {
+    padding: 0px;
+}
+
+li {
+    display: block;
+    user-select: none;
+    border: 2px solid black;
+    padding: 8px;
+    margin: 8px;
+}
